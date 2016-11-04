@@ -1,0 +1,5 @@
+ src/ContosoUniversity/wwwroot/lib/
+ src/ContosoUniversity/bin/
+ src/ContosoUniversity/debug/
+ *.dll
+ 
