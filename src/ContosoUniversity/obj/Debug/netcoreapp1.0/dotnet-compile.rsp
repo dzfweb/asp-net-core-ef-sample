@@ -229,6 +229,7 @@ C:\dev\testes\asp-net-core\src\ContosoUniversity\Startup.cs
 C:\dev\testes\asp-net-core\src\ContosoUniversity\Controllers\AccountController.cs
 C:\dev\testes\asp-net-core\src\ContosoUniversity\Controllers\HomeController.cs
 C:\dev\testes\asp-net-core\src\ContosoUniversity\Controllers\ManageController.cs
+C:\dev\testes\asp-net-core\src\ContosoUniversity\Controllers\StudentsController.cs
 C:\dev\testes\asp-net-core\src\ContosoUniversity\Data\ApplicationDbContext.cs
 C:\dev\testes\asp-net-core\src\ContosoUniversity\Data\DbInitializer.cs
 C:\dev\testes\asp-net-core\src\ContosoUniversity\Data\SchoolContext.cs
